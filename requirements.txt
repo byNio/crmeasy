@@ -9,4 +9,3 @@ requests==0.13.2
 shortuuid==0.4.2
 static3==0.5.1
 stripe==1.19.1
-wsgiref==0.1.2

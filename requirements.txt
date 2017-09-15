@@ -1,4 +1,4 @@
-Django==1.7.1
+Django==1.8.1
 dj-database-url==0.3.0
 dj-static==0.0.6
 django-shortuuidfield==0.1.2
